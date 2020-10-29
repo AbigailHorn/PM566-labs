@@ -6,6 +6,7 @@ output: html_document
 always_allow_html: true
 ---
 
+View the report [here](https://ghcdn.rawgit.org/AbigailHorn/PM566-labs/master/lab11/README.html)
 
 ```{r setup, message=FALSE, echo=FALSE, warning=FALSE}
 library(data.table)
