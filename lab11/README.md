@@ -6,7 +6,8 @@ output: html_document
 always_allow_html: true
 ---
 
-go to this [link](https://ghcdn.rawgit.org/AbigailHorn/PM566-labs/master/lab11/README.html)
+#go to this [link](https://ghcdn.rawgit.org/AbigailHorn/PM566-labs/master/lab11/README.html)
+View [here](https://ghcdn.rawgit.org/meredithfranklin/PM566-labs/master/lab11/README.html)
 
 ```{r setup, message=FALSE, echo=FALSE, warning=FALSE}
 library(data.table)
