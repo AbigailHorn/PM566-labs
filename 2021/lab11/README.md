@@ -6,8 +6,9 @@ output: html_document
 always_allow_html: true
 ---
   
-  
-  ```{r setup, message=FALSE, echo=FALSE, warning=FALSE}
+View report [here](https://ghcdn.rawgit.org/AbigailHorn/PM566-labs/master/2021/lab11/README.html)
+
+```{r setup, message=FALSE, echo=FALSE, warning=FALSE}
 library(data.table)
 library(tidyverse)
 library(dplyr)
