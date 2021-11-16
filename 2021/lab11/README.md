@@ -12,7 +12,7 @@ always_allow_html: true
   
 Grab lab file using command line: 
   
-  ```sh
+```sh
 # Step 1
 cd ~/Documents
 mkdir lab11
